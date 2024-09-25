@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=المواقيت الدقيقة
+Categories=Education;
+Comment=Accurate Times
+GenericName=Accurate Times
+Keywords=Accurate;Times;المواقيت;الدقيقة
+Exec=/usr/bin/accutimes.sh
+Terminal=false
+Type=Application
+icon=/usr/share/accutimes/iac.png
