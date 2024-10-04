@@ -8,4 +8,4 @@ Keywords=Accurate;Times;المواقيت;الدقيقة
 Exec=/usr/bin/accutimes.sh
 Terminal=false
 Type=Application
-icon=/usr/share/accutimes/iac.png
+Icon=/usr/share/accutimes/iac.png
